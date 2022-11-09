@@ -1,0 +1,110 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+/*//css verevi div//*/
+.verevi-div{
+    display:flex;
+    justify-content: space-between;
+    max-width: 1230px;
+    margin: auto;
+}
+.tert-logo{
+ text-decoration: none;
+    font-size: 20px;
+}
+.nkar{
+    width: 200px;
+    height: 41px;
+    margin-top: 4px;
+}
+.logo{
+    margin-top: 20px;
+}
+.input{
+    border: none;
+    background-color: #fff;
+    border-bottom: 2px solid #1567a9;
+    color: #1567a9;
+    height: 25px;
+    padding: 0;
+    width: 100%;
+    font-size: 18px;
+}
+.input-div{
+    display: flex;
+    justify-content: space-around;
+    width: 277px;
+    height: 27px;
+}
+.input-button{
+    width: 20px;
+    height: 20px;
+}
+.fa-search{
+ font-size: 21px;
+}
+.koxki-div{
+    display: flex;
+    justify-content: space-between;
+    width: 431px;
+    margin-top:30px;
+}
+.a-lang{
+    text-decoration: none;
+    list-style: none;
+    color: #1567a9;
+}
+.lang-ul{
+    display: flex;
+    justify-content: space-around;
+    width: 98px;
+    margin-top: 5px;
+}
+.form{
+    /*margin-top: 20px;*/
+}
+/*nerkevi mas header-nav*/
+.nerkevi-div{
+    background-color: #1567a9;
+    height: 50px;
+    margin-top: 20px;
+}
+.div-center{
+    max-width: 1228px;
+    margin: auto;
+    height: 100%;
+}
+
+.nav-ul-down{
+    display: flex;
+    justify-content: space-around;
+    height: 100%;
+
+}
+.nav{
+    height: 100%;
+}
+ul li a{
+    color:white;
+}
+/*/helper/*/
+ul,li,a{
+    text-decoration: none;
+    list-style: none;
+}
+nav ul li{
+    border-left: white;
+    border: 3px;
+    border-right: 1px solid white;
+    align-items: center;
+    padding-top: 15px;
+    padding-right: 22px;
+}
+.icon{
+    padding-top: 7px;
+}
+a:hover{
+    color:#CCBDE5;
+}
