@@ -190,5 +190,6 @@ h2{
     display: flex;
     flex-direction: column;
 }
-a:hover{
-    color:rgba(255,255,255,.9);
+a:hover {
+    color: rgba(255, 255, 255, .9);
+}
